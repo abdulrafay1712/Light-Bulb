@@ -9,9 +9,7 @@ body {
     align-items: center;
     gap: 30px;
 }
-.bulb-container{
-    margin-top: 20px;
-}
+
 
 .switch-container {
     width: 80%;   /* mobile ke liye zyada width */
